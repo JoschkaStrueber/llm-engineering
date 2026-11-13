@@ -1,4 +1,4 @@
-import{j as e,r as s,T as c}from"./index-DEw4Wl8i.js";function i(n){const t={a:"a",em:"em",h2:"h2",h3:"h3",li:"li",ol:"ol",p:"p",...n.components};return e.jsxs(e.Fragment,{children:[`
+import{j as e,r as s,T as c}from"./index-v3eKwj_b.js";function i(n){const t={a:"a",em:"em",h2:"h2",h3:"h3",li:"li",ol:"ol",p:"p",...n.components};return e.jsxs(e.Fragment,{children:[`
 `,e.jsx(t.h2,{children:"Participation"}),`
 `,e.jsx(t.h3,{children:"Why are the spots in the lecture limited?"}),`
 `,e.jsx(t.p,{children:'This lecture is a voluntary passion project of mine, which I teach instead of working on my own projects. I think we in Tübingen should do a better job of teaching the latest research and best practices in such a fast-moving field. I designed the lecture and exercises by asking myself: "What kind of lecture would I have liked to take before starting my PhD?"'}),`
@@ -25,6 +25,8 @@ import{j as e,r as s,T as c}from"./index-DEw4Wl8i.js";function i(n){const t={a:"
 `,e.jsx(t.h3,{children:"The pictures on the slides are funny. Where do they come from?"}),`
 `,e.jsx(t.p,{children:"I thought the slides looked boring without any visualizations, so I decided to add copper engravings and woodcuts that show scenes from technology or science. You can find the source of each one in the References tab at the end of each lecture."}),`
 `,e.jsxs(t.p,{children:[`The one with the "spheres and triangles" mentioned in a question is Johannes Kepler's model of the solar system built from the Platonic solids. It comes from his first book, `,e.jsx(t.em,{children:"Mysterium Cosmographicum"}),", printed in Tübingen in 1596."]}),`
+`,e.jsx(t.h3,{children:"Is there a PDF with only the slides?"}),`
+`,e.jsx(t.p,{children:"Yes, for most lectures. Their PDF button offers two files: the notes with the slides between them, and the slides only, one slide per page. A few lectures in an older slide format have only the notes PDF. The slides-only file leaves out the References tab, so look up sources in the notes PDF or on this site. For a handout, print the slides-only PDF with several pages per sheet. In macOS Preview this is Layout → Pages per Sheet in the print dialog, and most other PDF viewers have a similar setting."}),`
 `,e.jsx(t.h2,{children:"Lecture content"}),`
 `,e.jsx(t.h3,{children:"Week 1: When does it make more sense to fine-tune a model, and when to train one from scratch?"}),`
 `,e.jsx(t.p,{children:"In the first lecture, we briefly thought about this question. There are a lot of things to take into consideration, so this answer only scratches the surface."}),`
